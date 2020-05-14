@@ -1,0 +1,1 @@
+# Dining_philosophers-using-semaphore-in-C
